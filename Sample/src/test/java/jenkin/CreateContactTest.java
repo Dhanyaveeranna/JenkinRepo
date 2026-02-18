@@ -2,7 +2,7 @@ package jenkin;
 
 import org.testng.annotations.Test;
 
-public class CreateContact {
+public class CreateContactTest {
 	@Test(groups={"Smoke Testing"})
 	public void createcontactTest()
 	{
