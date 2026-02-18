@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="jenkin.CreateContact"/>
+      <class name="jenkin.CreateContactTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
